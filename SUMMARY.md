@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Wizarr Wizards \[Course 1\]](README.md)
+* [Learning Vue.js](README.md)
   * [Prerequisites](<Course 1/PREREQUISITES.md>)
   * [Modules](<Course 1/modules/README.md>)
     * [Introduction to Vue 3](<Course 1/modules/MODULE-1.md>)

@@ -1,4 +1,8 @@
-# Wizarr Wizards \[Course 1]
+---
+description: Course 1
+---
+
+# Learning Vue.js
 
 **Course Title:** Introduction to Vue 3: Building Web Applications
 
