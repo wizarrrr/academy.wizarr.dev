@@ -1,75 +1,18 @@
 ---
-description: Course 1
+description: >-
+  This compilation comprises a diverse range of courses offered by the Wizarr
+  Academy, covering an array of magical subjects.
 ---
 
-# Learning Vue.js
+# Wizarr Courses
 
-**Course Title:** Introduction to Vue 3: Building Web Applications
 
-**Course Description:** This course is designed for web developers who want to learn Vue 3, a progressive JavaScript framework for building modern web applications. You'll start with the basics and progress to more advanced concepts, allowing you to create interactive and dynamic web apps.
 
-**Course Duration:** 6 weeks
+1.  [**Learning Vue.js**](wizarr-courses/readme/)
 
-**Module 1:** [**Introduction to Vue 3**](<Course 1/modules/MODULE-1.md>)
+    This course is for web developers looking to master Vue 3, a progressive JavaScript framework. You'll begin with the fundamentals and advance to creating interactive and dynamic web applications
 
-* **Lesson 1.1:** What is Vue.js?
-* **Lesson 1.2:** Setting up Your Development Environment
-* **Lesson 1.3:** Creating Your First Vue App
 
-**Module 2:** [**Vue Components**](<Course 1/modules/MODULE-2.md>)
 
-* **Lesson 2.1:** Understanding Vue Components
-* **Lesson 2.2:** Data Binding and Templates
-* **Lesson 2.3:** Event Handling and Methods
-* **Assignment:** Build a Simple Component
 
-**Module 3:** [**Directives and Interactivity**](<Course 1/modules/MODULE-3.md>)
 
-* **Lesson 3.1:** Working with Directives
-* **Lesson 3.2:** Conditional Rendering
-* **Lesson 3.3:** Lists and Loops
-* **Assignment:** Create an Interactive To-Do List
-
-**Module 4:** [**State Management with Pinia**](<Course 1/modules/MODULE-4.md>)
-
-* **Lesson 4.1:** The Need for State Management
-* **Lesson 4.2:** Setting Up Pinia
-* **Lesson 4.3:** Mutations, Actions, and Getters
-* **Assignment:** Implement State Management in a To-Do List
-
-**Module 5:** [**Routing with Vue Router**](<Course 1/modules/MODULE-5.md>)
-
-* **Lesson 5.1:** Introduction to Vue Router
-* **Lesson 5.2:** Creating Routes and Navigating
-* **Lesson 5.3:** Dynamic Routing
-* **Assignment:** Build a Multi-Page Application
-
-**Module 6:** [**Real-World Applications and Best Practices**](<Course 1/modules/MODULE-6.md>)
-
-* **Lesson 6.1:** Building a Complete Project
-* **Lesson 6.2:** Optimization and Performance
-* **Lesson 6.3:** Testing and Debugging
-* **Final Project:** Develop a Full-Fledged Web Application
-
-**Additional Resources:**
-
-* Links to official Vue.js documentation
-* Recommended readings and articles for further learning
-* Code repositories and GitHub projects for reference
-
-**Assessment and Certification:**
-
-* Quizzes at the end of each module to test your knowledge
-* A final project to showcase your Vue 3 skills
-* Certificate of Completion upon successfully passing assessments
-
-**Community Building:**
-
-* Discussion forum for questions and collaboration
-* Weekly live Q\&A sessions for direct interaction
-
-**Course Prerequisites:**
-
-* Basic understanding of HTML, CSS, and JavaScript is recommended.
-
-This course provides a comprehensive introduction to Vue 3, from the fundamentals to building real-world projects. Each module includes practical assignments to reinforce your learning. You'll gain the skills needed to create dynamic and interactive web applications using Vue 3.
