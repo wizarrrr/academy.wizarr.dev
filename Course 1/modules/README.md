@@ -1,3 +1,9 @@
+---
+description: >-
+  Each module corresponds to a different week, and within each module, lessons
+  and assignments are organized according to their respective topics.
+---
+
 # Modules
 
 **Module 1:** [**Introduction to Vue 3**](MODULE-1.md)
