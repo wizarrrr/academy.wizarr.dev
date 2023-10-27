@@ -1,3 +1,5 @@
+# Wizarr Wizards [Course 1]
+
 **Course Title:** Introduction to Vue 3: Building Web Applications
 
 **Course Description:** This course is designed for web developers who want to learn Vue 3, a progressive JavaScript framework for building modern web applications. You'll start with the basics and progress to more advanced concepts, allowing you to create interactive and dynamic web apps.
