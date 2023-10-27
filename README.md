@@ -2,8 +2,8 @@
 description: >-
   This compilation comprises a diverse range of courses offered by the Wizarr
   Academy, covering an array of magical subjects.
-cover: .gitbook/assets/channels4_banner.jpg
-coverY: 0
+cover: .gitbook/assets/channels4_banner (1).jpg
+coverY: -215
 layout:
   cover:
     visible: true
