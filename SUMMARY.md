@@ -11,3 +11,4 @@
       * [Routing with Vue Router](wizarr-courses/readme/modules/module-5.md)
       * [Real-World Applications and Best Practices](wizarr-courses/readme/modules/module-6.md)
     * [Course Resources](wizarr-courses/readme/resources.md)
+  * [Learning Python](wizarr-courses/learning-python.md)
