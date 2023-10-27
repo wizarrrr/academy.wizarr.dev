@@ -2,7 +2,7 @@
 
 ## Lesson 4.1: The Need for State Management
 
-**Duration**: 1.5 hours
+**Duration**: 30 minutes
 
 **Objective**: Understand the importance of state management in Vue.js applications.
 
@@ -14,16 +14,16 @@
 
 **Activities**:
 
-1. Presentation (30 minutes):
+1. Presentation (10 minutes):
 
    - Explain the concept of state management in Vue.js applications.
    - Discuss common challenges that arise without proper state management.
 
-2. Case Studies (30 minutes):
+2. Case Studies (10 minutes):
 
    - Present real-world examples of applications that benefited from state management.
 
-3. Q&A and Discussion (30 minutes):
+3. Q&A and Discussion (10 minutes):
    - Encourage a discussion on the benefits and challenges of state management.
 
 **Homework**:
@@ -32,7 +32,7 @@
 
 ## Lesson 4.2: Setting Up Pinia
 
-**Duration**: 1.5 hours
+**Duration**: 30 minutes
 
 **Objective**: Learn how to set up the Pinia state management library in a Vue.js project.
 
@@ -44,17 +44,17 @@
 
 **Activities**:
 
-1. Presentation (30 minutes):
+1. Presentation (10 minutes):
 
    - Introduce the Pinia state management library.
    - Explain the installation process and initial setup.
 
-2. Hands-On (45 minutes):
+2. Hands-On (15 minutes):
 
    - Guide students through installing and configuring Pinia in a Vue.js project.
    - Demonstrate how to create a Pinia store.
 
-3. Q&A and Troubleshooting (30 minutes):
+3. Q&A and Troubleshooting (5 minutes):
    - Answer any questions related to the setup.
    - Help students troubleshoot any issues they encounter.
 
@@ -64,7 +64,7 @@
 
 ## Lesson 4.3: Mutations, Actions, and Getters
 
-**Duration**: 2 hours
+**Duration**: 30 minutes
 
 **Objective**: Understand the concepts of mutations, actions, and getters in Pinia.
 
@@ -76,21 +76,21 @@
 
 **Activities**:
 
-1. Presentation (30 minutes):
+1. Presentation (10 minutes):
 
    - Explain the concepts of mutations, actions, and getters in Pinia.
    - Discuss their roles and use cases.
 
-2. Hands-On (60 minutes):
+2. Hands-On (15 minutes):
 
    - Guide students in creating mutations, actions, and getters in a Pinia store.
    - Demonstrate how to use them in a Vue component.
 
-3. Practice and Scenarios (30 minutes):
+3. Practice and Scenarios (5 minutes):
 
    - Provide exercises and scenarios for students to practice working with mutations, actions, and getters.
 
-4. Q&A and Troubleshooting (30 minutes):
+4. Q&A and Troubleshooting (5 minutes):
    - Address any questions and assist with troubleshooting.
 
 **Homework**:
@@ -99,25 +99,23 @@
 
 ## Assignment: Implement State Management in a To-Do List
 
-**Duration**: 2 hours
+**Duration**: 30 minutes
 
 **Objective**: Apply the knowledge gained from Lessons 4.1, 4.2, and 4.3 to implement state management in a to-do list application using Pinia.
 
 **Activities**:
 
-1. Assignment Brief (15 minutes):
+1. Assignment Brief (5 minutes):
 
    - Provide a brief description of the assignment: Implement state management using Pinia in a to-do list application with features like adding, removing, and marking tasks as complete.
 
-2. Work on Assignment (1.5 hours):
+2. Work on Assignment (15 minutes):
 
    - Students work on implementing state management in the to-do list application.
 
-3. Presentation and Review (30 minutes):
+3. Presentation and Review (10 minutes):
    - Students present their to-do list applications with Pinia state management to the class and receive feedback.
 
 **Assessment**:
 
 - Assessment of the completed to-do list assignment with Pinia state management.
-
-By the end of Module 4, students should have a good understanding of the importance of state management, be able to set up Pinia in a Vue.js project, and use mutations, actions, and getters effectively to manage application state. They will also have practical experience implementing state management in a to-do list application.
