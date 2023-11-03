@@ -1,0 +1,4 @@
+// We must import Tailwind CSS here so that VueJS knows where to place the compiled CSS
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

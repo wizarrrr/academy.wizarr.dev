@@ -1,0 +1,38 @@
+name: Create Zips from Source and Move to Resources
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Create and move zips
+        run: |
+          # Create the resources directory if it doesn't exist
+          mkdir -p wizarr-resources
+
+          # Loop through each folder in wizarr-source and create zip files
+          for folder in wizarr-source/*; do
+            if [ -d "$folder" ]; then
+              folder_name=$(basename "$folder")
+              zip -r "wizarr-resources/$folder_name.zip" "$folder"
+            fi
+          done
+        shell: bash
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add wizarr-resources/*
+          git commit -m "Create and move zip files"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
