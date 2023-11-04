@@ -12,6 +12,8 @@ layout:
     visible: false
 ---
 
-# Course Resources
+# Resources
 
-To be done
+Download Example Project
+
+[Click Here](https://github.com/Wizarrrr/wizarr-wizards/raw/main/wizarr-resources/learning-vue.zip)
