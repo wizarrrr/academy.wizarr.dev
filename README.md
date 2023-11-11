@@ -28,3 +28,6 @@ layout:
 2.  [**Learning Python**](wizarr-courses/learning-python/)
 
     This course is thoughtfully crafted to cater to Python enthusiasts at all levels. Beginning with a solid foundation in Python's core concepts, you'll embark on a progressive journey, delving into its rich library ecosystem and advanced features.
+3.  [**Learning Tailwind**](wizarr-courses/learning-tailwind/)
+
+    This course is crafted for all levels of learners eager to master Tailwind CSS. Starting with the basics, you'll progress through utility classes, responsive design, and advanced customization.

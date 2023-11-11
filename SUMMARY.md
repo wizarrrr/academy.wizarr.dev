@@ -14,4 +14,5 @@
   * [Learning Python](wizarr-courses/learning-python/README.md)
     * [Prerequisites](wizarr-courses/learning-python/prerequisites.md)
     * [Course Resources](wizarr-courses/learning-python/course-resources.md)
-  * [Learning TailwindCSS](readme/learning-tailwindcss.md)
+  * [Learning TailwindCSS](wizarr-courses/learning-tailwindcss/README.md)
+    * [Installation](wizarr-courses/learning-tailwindcss/installation.md)
