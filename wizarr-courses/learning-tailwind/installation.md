@@ -8,19 +8,20 @@ Tailwind CSS is a utility-first CSS framework that works by scanning HTML files,
 
 #### 1. Using PostCSS
 
-Installing Tailwind CSS as a PostCSS plugin is the most seamless way to integrate it with build tools like webpack, Rollup, Vite, and Parcel.
+Installing Tailwind CSS as a PostCSS plugin is the most seamless way to integrate it with build tools like webpack, Rollup, Vite, and Vue.
 
 ### Installation Steps
 
-1. **Install Tailwind CSS:**
+1.  **Install Tailwind CSS:**
+
     ```bash
     npm install -D tailwindcss postcss autoprefixer
     npx tailwindcss init
     ```
-
-2. **Add Tailwind to your PostCSS configuration:**
+2.  **Add Tailwind to your PostCSS configuration:**
 
     Create or update your `postcss.config.js` file in the root folder of your project with the following content:
+
     ```javascript
     module.exports = {
       plugins: {
@@ -29,10 +30,10 @@ Installing Tailwind CSS as a PostCSS plugin is the most seamless way to integrat
       }
     }
     ```
-
-3. **Configure your template paths:**
+3.  **Configure your template paths:**
 
     Add the paths to all of your template files in your `tailwind.config.js` file:
+
     ```javascript
     // tailwind.config.js
     module.exports = {
@@ -43,38 +44,40 @@ Installing Tailwind CSS as a PostCSS plugin is the most seamless way to integrat
       plugins: [],
     }
     ```
-
-4. **Add the Tailwind directives to your CSS or SCSS:**
+4.  **Add the Tailwind directives to your CSS or SCSS:**
 
     Include the Tailwind directives in your main CSS file (e.g., `./src/css/main.css` or `./src/scss/main.scss`)
+
     ```css
     /* main.css or main.scss */
     @tailwind base;
     @tailwind components;
     @tailwind utilities;
     ```
-
-5. **Start your build process:**
+5.  **Start your build process:**
 
     Run your build process with the configured command (e.g., `npm run serve`):
+
     ```bash
     # Command for Vue
     npm run serve
     ```
-
-6. **Start using Tailwind in your HTML:**
+6.  **Start using Tailwind in your HTML:**
 
     Make sure your compiled CSS or SCSS is included in the `main.ts` or `main.js` file of your application:
+
     ```ts
     // If your using SCSS in your project
     import './scss/main.scss'
     ```
+
     ```js
     // If your using plain CSS in your project
     import './css/main.css'
     ```
 
     Now you can start using Tailwind classes inside your templates:
+
     ```html
       <template>
         <h1 class="text-3xl font-bold underline">
@@ -84,4 +87,5 @@ Installing Tailwind CSS as a PostCSS plugin is the most seamless way to integrat
     ```
 
     This should give us something that looks like this:
-    # **<u>Hello World</u>**
+
+    ## **Hello World**
