@@ -12,6 +12,6 @@ layout:
     visible: false
 ---
 
-# Course Resources
+# Resources
 
 To be done
